@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Nguyễn Thanh Sang Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://renosang.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://renosang.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTML &amp; CSS</title>
+      <link>https://renosang.github.io/categories/html-css/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://renosang.github.io/categories/html-css/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Android And Gaming</title>
       <link>https://renosang.github.io/categories/android-and-gaming/</link>
@@ -31,15 +40,6 @@
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://renosang.github.io/categories/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML &amp; CSS</title>
-      <link>https://renosang.github.io/categories/html-css/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://renosang.github.io/categories/html-css/</guid>
       <description></description>
     </item>
     
